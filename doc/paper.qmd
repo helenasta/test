@@ -1,6 +1,6 @@
 ---
 title: |
-  | A Maximal Research Project Template
+  | A Maximal Research Project Template that is really grande
   | An Illustrative Example in Python
 author:
   - name: Course Template
