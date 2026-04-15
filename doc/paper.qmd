@@ -13,7 +13,7 @@ execute:
   message: false
   warning: false
 abstract: |
-  | \vfill This paper demonstrates a minimal reproducible Python workflow for class assignments. The project uses a tiny `mtcars` example, but preserves the basic logic of a larger empirical workflow: data are pulled, prepared, analyzed, serialized to disk, and then imported into the paper as prepared results.
+  | \vfill This paper does really not demonstrate a maximal reproducible Python workflow for class assignments. The project uses a tiny `mtcars` example, but preserves the basic logic of a larger empirical workflow: data are pulled, prepared, analyzed, serialized to disk, and then imported into the paper as prepared results.
   | \vspace{6cm}
 bibliography: references.bib
 format:
