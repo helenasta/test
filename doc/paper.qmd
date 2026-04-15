@@ -1,6 +1,6 @@
 ---
 title: |
-  | A Minimal Research Project Template
+  | A Maximal Research Project Template
   | An Illustrative Example in Python
 author:
   - name: Course Template
